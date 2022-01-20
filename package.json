@@ -1,0 +1,14 @@
+{
+  "name": "xk-temp-qqservice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "koa": "^2.13.4",
+    "koa-body": "^4.2.0",
+    "lodash": "^4.17.21",
+    "oicq": "^2.1.9"
+  }
+}
